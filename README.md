@@ -7,7 +7,7 @@
 - [빌드하고 실행하기](TIL/section1_4/README.md)
 
 ## 섹션 2. 스프링 웹 개발 기초
-- 정적 컨텐츠
+- [정적 컨텐츠](TIL/section2_1/README.md)
 - MVC와 템플릿 엔진
 - API
 
