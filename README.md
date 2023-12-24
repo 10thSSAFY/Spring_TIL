@@ -8,7 +8,7 @@
 
 ## 섹션 2. 스프링 웹 개발 기초
 - [정적 컨텐츠](TIL/section2_1/README.md)
-- MVC와 템플릿 엔진
+- [MVC와 템플릿 엔진](TIL/section2_2/README.md)
 - API
 
 ## 섹션 3. 회원 관리 예제 - 백엔드 개발
