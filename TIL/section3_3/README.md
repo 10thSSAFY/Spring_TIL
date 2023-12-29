@@ -70,3 +70,15 @@ class MemoryMemberRepositoryTest {
 }
 
 ```
+
+`src/main/java/hello.hellospring/repository/MemoryMemberRepository` 수정
+```java
+public class MemoryMemberRepository implements MemberRepository {
+
+    ...
+
+    public void clearStore() {
+        store.clear();
+    }
+}
+```
