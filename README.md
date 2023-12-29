@@ -15,7 +15,7 @@
 - [비즈니스 요구사항 정리](TIL/section3_1/README.md)
 - [회원 도메인과 리포지토리 만들기](TIL/section3_2/README.md)
 - [회원 리포지토리 테스트 케이스 작성](TIL/section3_3/README.md)
-- 회원 서비스 개발
+- [회원 서비스 개발](TIL/section3_4/README.md)
 - 회원 서비스 테스트
 
 ## 섹션 4. 스프링 빈과 의존관계
