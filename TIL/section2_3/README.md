@@ -51,9 +51,7 @@ public class HelloController {
 **실행**
 - http://localhost:8080/hello-api?name=spring
 
-**@ResponseBody 사용 원리**
-
-![img]()
+![img](https://velog.velcdn.com/images/piaocanyi/post/cc519892-5151-45f1-8e1d-19e17fbfdcff/image.png)
 - `@ResponseBody`를 사용
     - HTTP의 BODY에 문자 내용을 직접 반환
     - `viewResolver`대신에 `HttpMessageConverter`가 동작
