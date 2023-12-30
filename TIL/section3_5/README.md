@@ -2,7 +2,7 @@
 
 ## 회원 서비스 테스트
 
-`test/java/hello.hellospring/service`
+`src/test/java/hello.hellospring/service`
 
 ```java
 package hello.hellospring.service;
