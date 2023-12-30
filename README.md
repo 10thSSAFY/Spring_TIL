@@ -16,7 +16,7 @@
 - [회원 도메인과 리포지토리 만들기](TIL/section3_2/README.md)
 - [회원 리포지토리 테스트 케이스 작성](TIL/section3_3/README.md)
 - [회원 서비스 개발](TIL/section3_4/README.md)
-- 회원 서비스 테스트
+- [회원 서비스 테스트](TIL/section3_5/README.md)
 
 ## 섹션 4. 스프링 빈과 의존관계
 - 컴포넌트 스캔과 자동 의존관계 설정
